@@ -1,30 +1,16 @@
-**hey there !**
+**hey there!**
 
 \
-welcome to my lounge. you can call it (u_d) baba ki gufa ! it's an online space where i express myself freely... because I don't expect a lot of visitors like you. now since you stumbled your way over here, how about you explore around. you know, press some buttons, click some links, read some stuff which i've put up; you may like it or maybe not (highly probable). i'll be elated if i discover you took your time here.
-\
-\
-**quick intro** : *a tall gujju guy without generational wealth figuring out life at 22*
-\
-\
-i graduated from iit guwahati in 2026 and am currently working as an analyst at blackrock. i find myself involved in a lot of activities at the same time which has led to one of my friends calling me ***the hobby whore***. really like this nickname because it sounds like a cheap slang for a polymath.
-
-
-> * my quizzing portfolio : [sci-echo](https://drive.google.com/drive/folders/1AVvDdHkYp2-BbKTeki74JFn1PYLex3Fv?usp=sharing), [athleticism](https://www.figma.com/deck/XVCdwnLvKIfwKM17ynu5AV/Untitled?node-id=1-384&t=TLlksD2TgvBUJRnj-1), [thank you for the quizzing]() and [a few drilling bits](https://drive.google.com/drive/folders/1XUp9To10W7ySpw2Og4y-Uc4c9wOW5UmT?usp=sharing)
-
-> * my evenings are spent chasing a yellow ball and putting it across the net. #federerpaglu
-
-> * help me find great music, great cinema, great tv, great paperbacks. i like to nerd tf out !
-
-> * [subscribe](https://buttondown.com/u_d_baba) for the lore of the name.
-
-> * [🪣](https://u-d-baba.github.io/Bloggo/blogposts/hundred/)
-
-
+I am guessing that you are one of my close friends who happens to know that I write here. If I am right, let's catch up on a call soon. Another guess would be that you are somebody that I have lost touch with; sorry about that but hey, it's never too late to reconnect :) If you have never met me in real life and somehow stumbled your way over here then, if you're interested, you can learn a great deal about my life depending on your sleuthing skills ;)
 
 
 \
-any random recommendation, chat or reel is always welcome on my instagram dm. 
+**abstract**
+> a tall gujju guy minus the stereotypical generational wealth, figuring out life at twenty two
 
-\
-ciao.
+**intro**
+> I used to be that good kid that is the wet dream of every Indian parent: studious, obidient, blah, blah. Thankfully, I spent four amazing years in my [engineering college](https://www.iitg.ac.in/) that helped me get rid of that skin and moulded me into this unserious guy who is terrible-yet-terrific at this open-world video game called life. Apart from my main [missions](https://u-d-baba.github.io/Bloggo/blogposts/hundred/), I have picked up a couple of sidequests in my gameplay so far: [quizzing](https://u-d-baba.github.io/Bloggo/blogposts/quizzing/), [tennis](https://www.youtube.com/watch?v=KTCDxjJvs2U), [writing](https://u-d-baba.github.io/Bloggo/). I am always on the lookout for opportunities to improve my larping abilities, so please feel free to send me good albums, movies, shows or paperbacks. You can view snaps of my gameplay through different media: [instagram](https://www.instagram.com/u_d_baba_/), [letterboxd](https://letterboxd.com/u_d_baba/), [apple music](https://music.apple.com/profile/u_d_baba).
+
+**future work**
+> Spam my Instagram chat with unhinged reels.
+

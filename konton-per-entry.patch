@@ -1,0 +1,910 @@
+diff --git a/archetypes/konton.md b/archetypes/konton.md
+new file mode 100644
+index 0000000..0181949
+--- /dev/null
++++ b/archetypes/konton.md
+@@ -0,0 +1,7 @@
+++++
++date = {{ .Date }}
++prompt = ""   # teaser shown before reveal, e.g. "Two mfs walking down ..." (leave empty to auto-use the first few words)
++draft = false
+++++
++
++<p>Write here.</p>
+diff --git a/content/konton/2024-02-23-tomorrow-is-my-real.md b/content/konton/2024-02-23-tomorrow-is-my-real.md
+new file mode 100644
+index 0000000..8a8b1df
+--- /dev/null
++++ b/content/konton/2024-02-23-tomorrow-is-my-real.md
+@@ -0,0 +1,15 @@
+++++
++date = 2024-02-23T19:50:00+05:30
++prompt = "Tomorrow is my Real Analysis midsem ..."
+++++
++
++<p>
++Tomorrow is my Real Analysis midsem which is 25% of my grade and am seriously under prepared. Probably not the best time to write on your blog but here I am. It seems that I am the worst when it comes to sorting one’s priorities.
++</p>
++<p>
++Maybe, the reason of this is the fact that I have to study “real analysis”. I have a love-hate relationship with pure mathematics. I mean I seriously enjoyed the lectures we had (though I didn’t get half of what the prof was talking about) because they were mentally stimulating and fascinating at times, but I guess the abstract nature of the subject is not my thing.
++</p>
++<p>
++<b>My bad.</b>
++</p>
++As of now, looks like the second cipher of the semester is on my way ;)
+diff --git a/content/konton/2024-03-24-f1-is-sick.md b/content/konton/2024-03-24-f1-is-sick.md
+new file mode 100644
+index 0000000..7b0bf9d
+--- /dev/null
++++ b/content/konton/2024-03-24-f1-is-sick.md
+@@ -0,0 +1,13 @@
+++++
++date = 2024-03-24T11:45:00+05:30
++prompt = "F1 is sick ..."
+++++
++
++<p>
++<b>F1 is sick !</b> Yeah, even I am now part of the bandwagon of mad people enjoying “superfast cars going around in circles”. To be honest, that was what I thought about the sport earlier and I guess everyone off the grid shares the same notion. But we (F1 followers) know that the reality speaks different.
++</p>
++<p>
++I just spent 90 minutes of my Sunday morning watching the Australian GP and boy was it not worth it. Verstappen retiring in 3rd Lap, both the Mercedes’ crashing out, Sainz getting P1 after recovering from an apendicitis operation. . . Now, I am seriously looking forward to the next races.
++</p>
++
++I am just new to the game so haven’t really picked a side to be loyal to but I guess I will be rooting for Ferrari this season. I hate it when a single player dominates the sport (The Joker, iykyk)
+diff --git a/content/konton/2024-06-11-just-finished-watching-love.md b/content/konton/2024-06-11-just-finished-watching-love.md
+new file mode 100644
+index 0000000..1b4667a
+--- /dev/null
++++ b/content/konton/2024-06-11-just-finished-watching-love.md
+@@ -0,0 +1,12 @@
+++++
++date = 2024-06-11T14:10:00+05:30
++prompt = "Just finished watching Love ..."
+++++
++
++<p>
++Just finished watching Love, Death + Robots on Netflix. Here is the first tierlist I ever made in my life <i>(because why not ;D)</i>
++</p>
++
++{{< figure src="images/ldr.png" align="center" width="600">}}
++
++Not the best use of your summer break time but I was not able to help it...
+diff --git a/content/konton/2024-08-06-it-feels-so-great.md b/content/konton/2024-08-06-it-feels-so-great.md
+new file mode 100644
+index 0000000..111fbac
+--- /dev/null
++++ b/content/konton/2024-08-06-it-feels-so-great.md
+@@ -0,0 +1,19 @@
+++++
++date = 2024-08-06T21:07:00+05:30
++prompt = "It feels so great ..."
+++++
++
++<p>
++It feels so great to be back on the tennis court. After a period of dormant three months, my racquet was finally out of the cover. 
++</p>
++<p>
++The internship season had driven me crazy. My entire summer was spent in front of the screen, either of TV or my laptop. Ahmedabad heat restricted my outings to a few. I was not able to get together with my friends until the very last day, that too with an excuse of giving a company's test together <i>(we didn't cheat)</i>.
++</p>
++<p>
++After numerous tests, 1 waitlist and 3 shortlists, I finally made it to the other side (the sorted side). 
++</p>
++<p>
++"Your game looks really rusty", said the newly joined fresher. My shots were going anywhere but within the lines; even launched one over the newly installed meshes. I was pissed with my game, but was extemely grateful about the opportunity to play after such a long time.
++</p>
++
++Made me realise that we, humans, take so many little things for granted.
+diff --git a/content/konton/2024-09-28-this-amazing-netflix-interactive.md b/content/konton/2024-09-28-this-amazing-netflix-interactive.md
+new file mode 100644
+index 0000000..d69c5e9
+--- /dev/null
++++ b/content/konton/2024-09-28-this-amazing-netflix-interactive.md
+@@ -0,0 +1,22 @@
+++++
++date = 2024-09-28T23:34:00+05:30
++prompt = "This amazing Netflix interactive called ..."
+++++
++
++<p>
++This amazing Netflix interactive called life. Yeah, I might be sounding a bit of a philosopher with this one but I guess one does need these kinds of "mindpours" from time to time. <i>(Especially when you don't drink)</i>
++</p>
++
++<p>
++What if you had a rewind button. At times, my soul goes on pondering about the road not taken. The what ifs?. 
++</p>
++
++<p>
++<b>"Things could've been so much different"</b>
++</p>
++
++<p>
++But I guess this is what makes one feel alive. This uncertainity is what makes life worth living. Yes, we may regret some of our decisions made in the past but then that is what makes us, us. Those mistakes are not inkblots but beautiful strokes on the canvas of your character.
++</p>
++
++The painting is taking shape, let the artist go wild !
+diff --git a/content/konton/2024-11-20-woh-engineering-hi-kya.md b/content/konton/2024-11-20-woh-engineering-hi-kya.md
+new file mode 100644
+index 0000000..b6b378a
+--- /dev/null
++++ b/content/konton/2024-11-20-woh-engineering-hi-kya.md
+@@ -0,0 +1,23 @@
+++++
++date = 2024-11-20T18:38:00+05:30
++prompt = "Woh engineering hi kya ..."
+++++
++
++<p>
++<b>"Woh engineering hi kya jisme back na lage !!"</b>
++<p>
++
++<p>
++Memes like these show up on your Instagram feed. You chuckle a bit, or maybe not, and scroll away with peace, thinking, <i
++>this won't happen to me</i>. Well, that aged like milk for me.
++</p>
++
++<p>
++I am on the verge of failing a course this semester. I wrote the final today and for the first time ever, I am unsure of passing a course. There have been courses in previous semesters in which my performance was pitiful but never have I ever been shit scared like I am at the moment. To add to my woes, the supplementary exams are scheduled during the Inter IIT Cultural Meet in which I am supposed to participate in the quizzing event. 
++</p>
++
++<p>
++So what went wrong? In retrospect, I feel that I understood the subject matter well but didn't study before exams and was horrible in execution during tests. 
++</p>
++
++My friends believe in me though. Tanush offered me to hedge on my final grade. I hope I lose my money.
+diff --git a/content/konton/2024-12-08-with-this-the-2024.md b/content/konton/2024-12-08-with-this-the-2024.md
+new file mode 100644
+index 0000000..c5c5c85
+--- /dev/null
++++ b/content/konton/2024-12-08-with-this-the-2024.md
+@@ -0,0 +1,18 @@
+++++
++date = 2024-12-08T20:35:00+05:30
++prompt = "With this, the 2024 ..."
+++++
++
++<p>
++With this, the 2024 Formula 1 season comes to an end. :')
++<p>
++
++<p>
++Supporting the Scuderia was one heck of an experience, and I look forward to more of the "Holy Shit!", "Damn it!!", "WTF", "Let's fucking go!" weekends and contemplating my life choices every now and then.
++</p>
++
++<p>
++We were left just a few points shy of the championship and it does hurt a bit. Leclerc pulled an absolute masterclass in Abu Dhabi and I really want that man to take the Drivers' championship next year. With Lewis coming in, even Contructors' can be ours. I feel sad for Carlos. Him being the P1 of the very first race I watched would always keep him in a special place for me. I wish him the very best of time in Williams (secretly want him to pull an Alain Prost).
++</p>
++
++Well, the F1 lore continues. March awaits.
+diff --git a/content/konton/2025-01-04-well-the-new-year.md b/content/konton/2025-01-04-well-the-new-year.md
+new file mode 100644
+index 0000000..a387527
+--- /dev/null
++++ b/content/konton/2025-01-04-well-the-new-year.md
+@@ -0,0 +1,26 @@
+++++
++date = 2025-01-04T19:48:00+05:30
++prompt = "Well the new year ..."
+++++
++
++<p>
++Well the new year literally started with WTF (atleast for me). I seriously hope that you had a "happy" new year.
++<p>
++
++<p>
++"Bhai aaj ka kya plan hai?" was bounced around our hostel with no one actually taking charge and it finally led us to spending the last few hours of 2024 watching the movie "Agent Sai Srinivas Atreya" online while stuffing burgers. All of us, sober.
++<p>
++
++<p>
++The next few days were not that great. The semester hadn't started in full swing and I just passed time doing nothing before I got hit with my seasonal bronchitis. I tried playing tennis but was gassed out in mere 30 minutes. A choking muscular grip tightened my lungs. My mouth wide open taking critical puffs of humid air in. I was down with my lungs sirening a rhythmic roar.
++<p>
++
++<p>
++I relied on a cocktail of syrups to improve my condition but that only helped me doze off during afternoons and I was left coughing at midnight. It got worse; a single flight of stairs was now enough to bring me to knees. I finally got a necessary dose of nebulization and am following a strict prescription. Hope to recover soon.
++<p>
++
++<p>
++Watching the third movie of the new year tonight...
++<p>
++
++{{< figure src="images/vz.png" align="center" width="300">}}
+diff --git a/content/konton/2025-02-19-i-write-this-while.md b/content/konton/2025-02-19-i-write-this-while.md
+new file mode 100644
+index 0000000..a115cae
+--- /dev/null
++++ b/content/konton/2025-02-19-i-write-this-while.md
+@@ -0,0 +1,22 @@
+++++
++date = 2025-02-19T21:35:00+05:30
++prompt = "I write this while I ..."
+++++
++
++<p>
++I write this while I lay in my sheet-less bed, snuggled well in my blankets. You would've surely played one of those endless runner mobile games like Subway Surfers or Temple Run. For the past 20-30 days, I've been feeling like one of those characters, just running ahead with no one actually chasing.
++<p>
++
++<p>
++Now, it's not like I've got nothing to do. I want to do a lot of things (by lot, I mean a lottt). Want to read and finish a bunch of novels. Want to read a lot about quantum computation, cryptography, fractals and revive my long dormant blog. 
++<p>
++
++<p>
++However, I just find myself tired and busy playing online blitz chess (I am horrible at it), solving online puzzles, binging shows or the worst of all : doomscrolling. I used to waste time before as well but these days, that's the only thing I am engaged in. Productivity = @|0|@.
++<p>
++
++<p>
++I find it difficult to find reasons for this mushy phase. Maybe I am just being lazy (like a bear during winters). Maybe because I am approaching the end of my undergraduate life (only 10 more months on this campus) and need a breath of fresh air. Or maybe because the tennis courts are closed...
++<p>
++
++{{< figure src="images/ao.png" align="center" width="300">}}
+diff --git a/content/konton/2025-02-24-live-commentary-for.md b/content/konton/2025-02-24-live-commentary-for.md
+new file mode 100644
+index 0000000..3315122
+--- /dev/null
++++ b/content/konton/2025-02-24-live-commentary-for.md
+@@ -0,0 +1,32 @@
+++++
++date = 2025-02-24T19:30:00+05:30
++prompt = "Live commentary for ..."
+++++
++
++<p>
++Live commentary for MA373 : Financial Engineering midsem. Yes, this account was actually written during the exam hours.
++<p>
++
++<p>
++<i>"I am writing this in the exam hall. Why? Is it because I am done with the paper and they won't let me out? Nah. Long gone are those days. It's been 37 minutes since this exam started and I am overwhelmed by the new vocabulary which I am encountering for the first time in my life."</i>
++<p>
++
++<p>
++Yeah, I didn't study. I hate this course.
++<p>
++
++<p>
++<i>"Delta, Gamma, Hedge, at-the-money, forward start, up-and-in. These words play a cacophony in my head as I read through. Where is the math? Is this what this is about; memorising weirdass financial contracts and how they work? The physics paper next to me looks much more inviting; much more mathematical. I suppose I should've majored in physics."</i>
++<p>
++
++<p>
++Actually, their courses do get much more interesting than most of my courses. I remember my friend asking my help on some tutorial problem which required really good application of probability. Physics is cool. Might major in it in some other life. 
++<p>
++
++<p>
++<i>"I guess it's time to meditate. Yeah, meditate. Meditate as my peers scribble their way through sheets and I just stare into nothing. Helpless. I just realised I have just filled one side of a paper and attempted only of worth 5/30. This is a new low, even by my standards."</i>
++<p>
++
++On a serious note, I need to buck up or else I am repeating this course...
++
++{{< figure src="images/fin.png" align="center" width="300">}}
+diff --git a/content/konton/2025-03-31-whoever-coined-the-word.md b/content/konton/2025-03-31-whoever-coined-the-word.md
+new file mode 100644
+index 0000000..31e4e9a
+--- /dev/null
++++ b/content/konton/2025-03-31-whoever-coined-the-word.md
+@@ -0,0 +1,24 @@
+++++
++date = 2025-03-31T16:08:00+05:30
++prompt = "Whoever coined the word ..."
+++++
++
++<p>Whoever coined the word "shitfaced" deserves an award.<p>
++
++<p>
++That is such an accurate depiction of the abysmal state you end up in after a horrible drinking session. I am speaking from personal experience here.
++<p>
++
++<p>
++I am done with liquor. It's not like I used to drink before. It was my first time, and the experience was anything but pleasurable. The high of losing consciousness and being able to blabber out whatever you want without second thoughts feels great until you find yourself rolling in the sand, puking like hell everywhere, with your head bobbing like a loose, shaky bolt.
++<p>
++
++<p>
++Keys lost. Clothes and hair muddy. Odour worse than shit. I wanted to get rid of that ragamuffin body, put it in an imaginary giant washing machine, and then wear it again. Thanks to my friends, I ended up in my room, unharmed and still in possession of my phone. I was grateful, but guilty.
++<p>
++
++<p>
++I would call it a canon event and move off this now. They are right about <i>Drinking is injurious to your health.</i>
++<p>
++
++{{< figure src="images/ded.png" align="center" width="450">}}
+diff --git a/content/konton/2025-10-04-a-short-trip.md b/content/konton/2025-10-04-a-short-trip.md
+new file mode 100644
+index 0000000..89a92d1
+--- /dev/null
++++ b/content/konton/2025-10-04-a-short-trip.md
+@@ -0,0 +1,24 @@
+++++
++date = 2025-10-04T14:09:00+05:30
++prompt = "A short trip ..."
+++++
++
++<p>A short trip to home and back in four days; felt like a lucid dream.<p>
++
++<p>
++Decision of making this trip was as impulsive as it gets; as expensive as it gets. But fuck the bucks, it was so worth it. Surprising my mom, crashing my friends' get together dinner, garba nights, early morning coffee & chats. The list is long. Though time went by like a breeze, it certainly felt a lot more than mere four days.
++<p>
++
++<p>
++A certain episode during this time also made me realise that the universe is way too chaotic, you are in way less control of things around you than you think you are. I guess this is what some people refer to as "God". I'd rather prefer the words fate or destiny.
++<p>
++
++<p>
++I watched <a href="https://letterboxd.com/film/stand-by-me/">Stand by Me</a> last night. 
++<p>
++<p>
++Now, I miss my friends.
++<p>
++<p>
++Now, I feel like having some beer at a random pub quiz in London.
++<p>
+diff --git a/content/konton/2025-12-04-the-group-chat-got.md b/content/konton/2025-12-04-the-group-chat-got.md
+new file mode 100644
+index 0000000..c4f484d
+--- /dev/null
++++ b/content/konton/2025-12-04-the-group-chat-got.md
+@@ -0,0 +1,19 @@
+++++
++date = 2025-12-04T11:15:00+05:30
++prompt = "The group chat got ..."
+++++
++
++<p>The group chat got pretty creative on this one random day, cooking up pornographic movie parodies. Here are some of the good ones. Enjoy !<p>
++<ul>
++    <li>Edging till Tomorrow</li>
++    <li>Curious Case of Benjamin's Butt</li>
++    <li>In Diana, Jones</li>
++    <li>Fill Bill</li>
++    <li>WhipAss</li>
++    <li>Everything, Everyone All At Once</li>
++    <li>Saving Ryan's Privates</li>
++    <li>The Devil Wears Nothing</li>
++    <li>Monty's Python in the Holy Grail</li>
++    <li>Ben Whore</li>
++    <li>The Pursuit of Happy's Ass</li>
++  </ul>
+diff --git a/content/konton/2026-02-15-getting-featured-on-the.md b/content/konton/2026-02-15-getting-featured-on-the.md
+new file mode 100644
+index 0000000..7b98928
+--- /dev/null
++++ b/content/konton/2026-02-15-getting-featured-on-the.md
+@@ -0,0 +1,16 @@
+++++
++date = 2026-02-15T21:50:00+05:30
++prompt = "Getting featured on the meme channel ..."
+++++
++
++<p>Getting featured on the meme channel with the caption <i>"generational aura loss"</i> and a loud <b>"FAAHHHHH!"</b> in the background was not on my final year bingo card.</p>
++
++<p>It was the season of inter hostel quizzes. One last time to get the best possible points for our Manas hostel. It was the second day of quizzes after we had finished 3rd in both the quizzes on the first day. MELA and Sports quizzes were scheduled for that day along with my topology quiz!</p>
++
++<p>I was busy studying for the topology quiz in the morning when Shreyansh arrives out of nowhere. "Bhai, story laga de. Open challenge to all hostels. Sports me apne ko koi nhi hara skta." Now, this sounds very cocky but the odds were heavily in our favour. It was confidence, not overconfidence. We posted the stories on our Instagram.<p>
++
++<p>But then, of course, the unwanted plot twist. We finished 3rd. By the slimmest of margins. It was four bronze podiums across all four quizzes. T_T<p>
++
++<p>By night, the quiz club group chat was brimming with roasts hurled at the three of us. Even alums did not spare us. If that was not enough, someone got it posted on the IITG meme channel.<p>
++
++<p>Anyway, a fun story to recall when we get those sudden nostalgia hits years down the line.<p>
+diff --git a/content/konton/2026-03-24-two-mfs-walking-down.md b/content/konton/2026-03-24-two-mfs-walking-down.md
+new file mode 100644
+index 0000000..5a13dd5
+--- /dev/null
++++ b/content/konton/2026-03-24-two-mfs-walking-down.md
+@@ -0,0 +1,24 @@
+++++
++date = 2026-03-24T19:07:00+05:30
++prompt = "Two mfs walking down ..."
+++++
++
++<p>Two mfs walking down the streets of IIT Guwahati.</p>
++
++<p>They have been unlucky in love since forever. They are down a few drinks. They have already brought their inner Jagjit Singh out. </p>
++
++<p> Here's what they discuss.</p>
++
++<p><i>
++Your heart is a muscle the size of your fist <br>
++Keep on loving, keep on fighting <br>
++And hold on, and hold on <br>
++Hold on for your life <br>
++</i><b>- Ramshackle Glory </b></p>
++
++<p><i>
++The one who's in love always wins. <br>
++It doesn't matter if you get your heart broken.<br>
++You're living. When you're feeeling, you're alive.<br>
++The sun doesn't care whether the grass appreciates its rays, it just keeps on shining. <br>
++</i><b>- Ethan Hawke </b></p>
+diff --git a/content/konton/2026-06-03-here-are-a-few.md b/content/konton/2026-06-03-here-are-a-few.md
+new file mode 100644
+index 0000000..7e3cac0
+--- /dev/null
++++ b/content/konton/2026-06-03-here-are-a-few.md
+@@ -0,0 +1,20 @@
+++++
++date = 2026-06-03T17:35:00+05:30
++prompt = "Here are a few excerpts from The Homemaker's Guide..."
+++++
++
++<p>Here are a few excerpts from The Homemaker's Guide to Babysitting:</p>
++
++<p><i>"This guide, to a certain extent, may explain why so many horror flick plots revolve around babysitters."</i></p>
++
++<p><i>"An 'accidental babysitter', usually a close relative of the kid in question, is someone who was thrown into the job without knowing the hazards <em>a priori</em>, has no insurance against them going mentally insane, and is often unpaid in monetary terms (you might get tipped in blessings for a job well done). Accidental babysitter duty can call anyone: someone as random as a twenty-two year old browsing arthouse cinema over an afternoon on Mubi."</i></p>
++
++<p><i>"The television has been the saviour of babysitters since 1979, as it does wonders in defusing reckless-antic-pulling thoughts out of children; though often at the cost of some percentage of their braincells. (Doesn't matter, they weren't growing up to be as creative as Douglas Adams, were they?) If TV is allowed by the parent, your job will now become slightly easier if you are smart enough to pick something non-soporific based on the audience; avoid <em>'Princess Mononoke'</em> at all costs."</i></p>
++
++<p><i>"Of the various scenarios that may occur after a baby wakes up from sleep, the most feared is the case when the baby starts crying, looking for his/her mother, who might be busy shopping (Case 666). Sample first responses to such situations may include offering Amul vanilla ice-cream, showing random household artefacts such as a pinwheel and a wooden one-horned rhino, or negotiating with the tearful party (utterly useless)."</i></p>
++
++<p><i>"The next step in alleviating a Case 666 can be establishing contact with the mother. If the phone call fails, possibly due to the mother travelling in an underground metro channel, it's probably the best time to seek the talents of your college friend who was an expert in emulating Sunny Leone (her sounds)."</i></p>
++
++<p><i>"The golden hammer to such cases would be to lie; lie that you're taking them to their parent. Dress them up. Put the farthest walkable garden on your Google Maps, show them, and hope they don't understand; a seaside promenade can also work. On the way, point out common objects with double the enthusiasm you might show when you see the Mona Lisa for the first time in your life: "LOOOOOK, a BLAAACKKKK CROW !!!!". This may lead to some purchases like a cup of Baskin-Robbins Cotton Candy; keep some cash handy. The kid will eventually figure out that staying in the house is probably much better than getting sweaty outside looking for their parent."</i></p>
++
++<p><i>"<b>Warning</b>: If the kid starts crying while you're outside and you don't happen to be well dressed, ensure that no one around you dials a three digit number.</i></p>
+diff --git a/content/konton/_index.md b/content/konton/_index.md
+new file mode 100644
+index 0000000..97e9927
+--- /dev/null
++++ b/content/konton/_index.md
+@@ -0,0 +1,15 @@
+++++
++title = "પંચાત"
++draft = false
++outputs = ["HTML"]
++
++# Entries live as separate .md files in this folder. They are only shown
++# inside this page, so don't build a standalone page for each one.
++[[cascade]]
++  [cascade._build]
++    render = "link"
++    list = "local"
++  [cascade._target]
++    kind = "page"
+++++
++---
+diff --git a/content/konton/index.md b/content/konton/index.md
+deleted file mode 100644
+index eac4533..0000000
+--- a/content/konton/index.md
++++ /dev/null
+@@ -1,386 +0,0 @@
+-+++
+-title = "પંચાત"
+-draft = false
+-+++
+----
+-
+-{{< toggle "2026" "open" >}}
+-
+-<h6> 03/06, 1735 hrs</h6>
+-
+-{{< spoiler prompt = "Here are a few excerpts from The Homemaker's Guide...">}}
+-
+-<p>Here are a few excerpts from The Homemaker's Guide to Babysitting:</p>
+-
+-<p><i>"This guide, to a certain extent, may explain why so many horror flick plots revolve around babysitters."</i></p>
+-
+-<p><i>"An 'accidental babysitter', usually a close relative of the kid in question, is someone who was thrown into the job without knowing the hazards <em>a priori</em>, has no insurance against them going mentally insane, and is often unpaid in monetary terms (you might get tipped in blessings for a job well done). Accidental babysitter duty can call anyone: someone as random as a twenty-two year old browsing arthouse cinema over an afternoon on Mubi."</i></p>
+-
+-<p><i>"The television has been the saviour of babysitters since 1979, as it does wonders in defusing reckless-antic-pulling thoughts out of children; though often at the cost of some percentage of their braincells. (Doesn't matter, they weren't growing up to be as creative as Douglas Adams, were they?) If TV is allowed by the parent, your job will now become slightly easier if you are smart enough to pick something non-soporific based on the audience; avoid <em>'Princess Mononoke'</em> at all costs."</i></p>
+-
+-<p><i>"Of the various scenarios that may occur after a baby wakes up from sleep, the most feared is the case when the baby starts crying, looking for his/her mother, who might be busy shopping (Case 666). Sample first responses to such situations may include offering Amul vanilla ice-cream, showing random household artefacts such as a pinwheel and a wooden one-horned rhino, or negotiating with the tearful party (utterly useless)."</i></p>
+-
+-<p><i>"The next step in alleviating a Case 666 can be establishing contact with the mother. If the phone call fails, possibly due to the mother travelling in an underground metro channel, it's probably the best time to seek the talents of your college friend who was an expert in emulating Sunny Leone (her sounds)."</i></p>
+-
+-<p><i>"The golden hammer to such cases would be to lie; lie that you're taking them to their parent. Dress them up. Put the farthest walkable garden on your Google Maps, show them, and hope they don't understand; a seaside promenade can also work. On the way, point out common objects with double the enthusiasm you might show when you see the Mona Lisa for the first time in your life: "LOOOOOK, a BLAAACKKKK CROW !!!!". This may lead to some purchases like a cup of Baskin-Robbins Cotton Candy; keep some cash handy. The kid will eventually figure out that staying in the house is probably much better than getting sweaty outside looking for their parent."</i></p>
+-
+-<p><i>"<b>Warning</b>: If the kid starts crying while you're outside and you don't happen to be well dressed, ensure that no one around you dials a three digit number.</i></p>
+-
+-{{</ spoiler >}}
+-
+-<h6> 24/03, 1907 hrs</h6>
+-
+-{{< spoiler prompt = "Two mfs walking down ...">}}
+-
+-<p>Two mfs walking down the streets of IIT Guwahati.</p>
+-
+-<p>They have been unlucky in love since forever. They are down a few drinks. They have already brought their inner Jagjit Singh out. </p>
+-
+-<p> Here's what they discuss.</p>
+-
+-<p><i>
+-Your heart is a muscle the size of your fist <br>
+-Keep on loving, keep on fighting <br>
+-And hold on, and hold on <br>
+-Hold on for your life <br>
+-</i><b>- Ramshackle Glory </b></p>
+-
+-<p><i>
+-The one who's in love always wins. <br>
+-It doesn't matter if you get your heart broken.<br>
+-You're living. When you're feeeling, you're alive.<br>
+-The sun doesn't care whether the grass appreciates its rays, it just keeps on shining. <br>
+-</i><b>- Ethan Hawke </b></p>
+-
+-{{</ spoiler >}}
+-
+-<h6> 15/02, 2150 hrs</h6>
+-
+-{{< spoiler prompt = "Getting featured on the meme channel ...">}}
+-
+-<p>Getting featured on the meme channel with the caption <i>"generational aura loss"</i> and a loud <b>"FAAHHHHH!"</b> in the background was not on my final year bingo card.</p>
+-
+-<p>It was the season of inter hostel quizzes. One last time to get the best possible points for our Manas hostel. It was the second day of quizzes after we had finished 3rd in both the quizzes on the first day. MELA and Sports quizzes were scheduled for that day along with my topology quiz!</p>
+-
+-<p>I was busy studying for the topology quiz in the morning when Shreyansh arrives out of nowhere. "Bhai, story laga de. Open challenge to all hostels. Sports me apne ko koi nhi hara skta." Now, this sounds very cocky but the odds were heavily in our favour. It was confidence, not overconfidence. We posted the stories on our Instagram.<p>
+-
+-<p>But then, of course, the unwanted plot twist. We finished 3rd. By the slimmest of margins. It was four bronze podiums across all four quizzes. T_T<p>
+-
+-<p>By night, the quiz club group chat was brimming with roasts hurled at the three of us. Even alums did not spare us. If that was not enough, someone got it posted on the IITG meme channel.<p>
+-
+-<p>Anyway, a fun story to recall when we get those sudden nostalgia hits years down the line.<p>
+-
+-{{</ spoiler >}}
+-
+-{{</ toggle>}}
+-
+-
+-
+-{{< toggle "2025"  >}}
+-
+-<h6> 04/12, 1115 hrs </h6>
+-
+-{{< spoiler prompt = "The group chat got ...">}}
+-
+-<p>The group chat got pretty creative on this one random day, cooking up pornographic movie parodies. Here are some of the good ones. Enjoy !<p>
+-<ul>
+-    <li>Edging till Tomorrow</li>
+-    <li>Curious Case of Benjamin's Butt</li>
+-    <li>In Diana, Jones</li>
+-    <li>Fill Bill</li>
+-    <li>WhipAss</li>
+-    <li>Everything, Everyone All At Once</li>
+-    <li>Saving Ryan's Privates</li>
+-    <li>The Devil Wears Nothing</li>
+-    <li>Monty's Python in the Holy Grail</li>
+-    <li>Ben Whore</li>
+-    <li>The Pursuit of Happy's Ass</li>
+-  </ul>
+-
+-
+-{{</ spoiler>}}
+-
+-<h6> 04/10, 1409 hrs </h6>
+-
+-{{< spoiler prompt = "A short trip ...">}}
+-
+-<p>A short trip to home and back in four days; felt like a lucid dream.<p>
+-
+-<p>
+-Decision of making this trip was as impulsive as it gets; as expensive as it gets. But fuck the bucks, it was so worth it. Surprising my mom, crashing my friends' get together dinner, garba nights, early morning coffee & chats. The list is long. Though time went by like a breeze, it certainly felt a lot more than mere four days.
+-<p>
+-
+-<p>
+-A certain episode during this time also made me realise that the universe is way too chaotic, you are in way less control of things around you than you think you are. I guess this is what some people refer to as "God". I'd rather prefer the words fate or destiny.
+-<p>
+-
+-<p>
+-I watched <a href="https://letterboxd.com/film/stand-by-me/">Stand by Me</a> last night. 
+-<p>
+-<p>
+-Now, I miss my friends.
+-<p>
+-<p>
+-Now, I feel like having some beer at a random pub quiz in London.
+-<p>
+-
+-
+-{{</ spoiler>}}
+-
+-
+-<h6> 31/03, 1608 hrs </h6>
+-
+-{{< spoiler prompt = "Whoever coined the word ...">}}
+-
+-<p>Whoever coined the word "shitfaced" deserves an award.<p>
+-
+-<p>
+-That is such an accurate depiction of the abysmal state you end up in after a horrible drinking session. I am speaking from personal experience here.
+-<p>
+-
+-<p>
+-I am done with liquor. It's not like I used to drink before. It was my first time, and the experience was anything but pleasurable. The high of losing consciousness and being able to blabber out whatever you want without second thoughts feels great until you find yourself rolling in the sand, puking like hell everywhere, with your head bobbing like a loose, shaky bolt.
+-<p>
+-
+-<p>
+-Keys lost. Clothes and hair muddy. Odour worse than shit. I wanted to get rid of that ragamuffin body, put it in an imaginary giant washing machine, and then wear it again. Thanks to my friends, I ended up in my room, unharmed and still in possession of my phone. I was grateful, but guilty.
+-<p>
+-
+-<p>
+-I would call it a canon event and move off this now. They are right about <i>Drinking is injurious to your health.</i>
+-<p>
+-
+-{{< figure src="images/ded.png" align="center" width="450">}}
+-
+-{{</ spoiler>}}
+-
+-<h6> 24/02, 1930 hrs </h6>
+-
+-{{< spoiler prompt = "Live commentary for ...">}}
+-
+-<p>
+-Live commentary for MA373 : Financial Engineering midsem. Yes, this account was actually written during the exam hours.
+-<p>
+-
+-<p>
+-<i>"I am writing this in the exam hall. Why? Is it because I am done with the paper and they won't let me out? Nah. Long gone are those days. It's been 37 minutes since this exam started and I am overwhelmed by the new vocabulary which I am encountering for the first time in my life."</i>
+-<p>
+-
+-<p>
+-Yeah, I didn't study. I hate this course.
+-<p>
+-
+-<p>
+-<i>"Delta, Gamma, Hedge, at-the-money, forward start, up-and-in. These words play a cacophony in my head as I read through. Where is the math? Is this what this is about; memorising weirdass financial contracts and how they work? The physics paper next to me looks much more inviting; much more mathematical. I suppose I should've majored in physics."</i>
+-<p>
+-
+-<p>
+-Actually, their courses do get much more interesting than most of my courses. I remember my friend asking my help on some tutorial problem which required really good application of probability. Physics is cool. Might major in it in some other life. 
+-<p>
+-
+-<p>
+-<i>"I guess it's time to meditate. Yeah, meditate. Meditate as my peers scribble their way through sheets and I just stare into nothing. Helpless. I just realised I have just filled one side of a paper and attempted only of worth 5/30. This is a new low, even by my standards."</i>
+-<p>
+-
+-On a serious note, I need to buck up or else I am repeating this course...
+-
+-{{< figure src="images/fin.png" align="center" width="300">}}
+-
+-
+-
+-{{</ spoiler>}}
+-
+-
+-<h6> 19/02, 2135 hrs </h6>
+-
+-{{< spoiler prompt = "I write this while I ...">}}
+-
+-<p>
+-I write this while I lay in my sheet-less bed, snuggled well in my blankets. You would've surely played one of those endless runner mobile games like Subway Surfers or Temple Run. For the past 20-30 days, I've been feeling like one of those characters, just running ahead with no one actually chasing.
+-<p>
+-
+-<p>
+-Now, it's not like I've got nothing to do. I want to do a lot of things (by lot, I mean a lottt). Want to read and finish a bunch of novels. Want to read a lot about quantum computation, cryptography, fractals and revive my long dormant blog. 
+-<p>
+-
+-<p>
+-However, I just find myself tired and busy playing online blitz chess (I am horrible at it), solving online puzzles, binging shows or the worst of all : doomscrolling. I used to waste time before as well but these days, that's the only thing I am engaged in. Productivity = @|0|@.
+-<p>
+-
+-<p>
+-I find it difficult to find reasons for this mushy phase. Maybe I am just being lazy (like a bear during winters). Maybe because I am approaching the end of my undergraduate life (only 10 more months on this campus) and need a breath of fresh air. Or maybe because the tennis courts are closed...
+-<p>
+-
+-{{< figure src="images/ao.png" align="center" width="300">}}
+-
+-
+-
+-{{</ spoiler>}}
+-
+-
+-<h6> 04/01, 1948 hrs </h6>
+-
+-{{< spoiler prompt = "Well the new year ...">}}
+-
+-<p>
+-Well the new year literally started with WTF (atleast for me). I seriously hope that you had a "happy" new year.
+-<p>
+-
+-<p>
+-"Bhai aaj ka kya plan hai?" was bounced around our hostel with no one actually taking charge and it finally led us to spending the last few hours of 2024 watching the movie "Agent Sai Srinivas Atreya" online while stuffing burgers. All of us, sober.
+-<p>
+-
+-<p>
+-The next few days were not that great. The semester hadn't started in full swing and I just passed time doing nothing before I got hit with my seasonal bronchitis. I tried playing tennis but was gassed out in mere 30 minutes. A choking muscular grip tightened my lungs. My mouth wide open taking critical puffs of humid air in. I was down with my lungs sirening a rhythmic roar.
+-<p>
+-
+-<p>
+-I relied on a cocktail of syrups to improve my condition but that only helped me doze off during afternoons and I was left coughing at midnight. It got worse; a single flight of stairs was now enough to bring me to knees. I finally got a necessary dose of nebulization and am following a strict prescription. Hope to recover soon.
+-<p>
+-
+-<p>
+-Watching the third movie of the new year tonight...
+-<p>
+-
+-{{< figure src="images/vz.png" align="center" width="300">}}
+-
+-
+-
+-{{</ spoiler>}}
+-
+-{{</ toggle>}}
+-
+-{{< toggle "2024" >}}
+-
+-<h6> 08/12, 2035 hrs </h6>
+-
+-{{< spoiler prompt = "With this, the 2024 ...">}}
+-<p>
+-With this, the 2024 Formula 1 season comes to an end. :')
+-<p>
+-
+-<p>
+-Supporting the Scuderia was one heck of an experience, and I look forward to more of the "Holy Shit!", "Damn it!!", "WTF", "Let's fucking go!" weekends and contemplating my life choices every now and then.
+-</p>
+-
+-<p>
+-We were left just a few points shy of the championship and it does hurt a bit. Leclerc pulled an absolute masterclass in Abu Dhabi and I really want that man to take the Drivers' championship next year. With Lewis coming in, even Contructors' can be ours. I feel sad for Carlos. Him being the P1 of the very first race I watched would always keep him in a special place for me. I wish him the very best of time in Williams (secretly want him to pull an Alain Prost).
+-</p>
+-
+-Well, the F1 lore continues. March awaits.
+-{{</ spoiler >}}
+-
+-<h6> 20/11, 1838 hrs </h6>
+-
+-{{< spoiler prompt = "Woh engineering hi kya ...">}}
+-<p>
+-<b>"Woh engineering hi kya jisme back na lage !!"</b>
+-<p>
+-
+-<p>
+-Memes like these show up on your Instagram feed. You chuckle a bit, or maybe not, and scroll away with peace, thinking, <i
+->this won't happen to me</i>. Well, that aged like milk for me.
+-</p>
+-
+-<p>
+-I am on the verge of failing a course this semester. I wrote the final today and for the first time ever, I am unsure of passing a course. There have been courses in previous semesters in which my performance was pitiful but never have I ever been shit scared like I am at the moment. To add to my woes, the supplementary exams are scheduled during the Inter IIT Cultural Meet in which I am supposed to participate in the quizzing event. 
+-</p>
+-
+-<p>
+-So what went wrong? In retrospect, I feel that I understood the subject matter well but didn't study before exams and was horrible in execution during tests. 
+-</p>
+-
+-My friends believe in me though. Tanush offered me to hedge on my final grade. I hope I lose my money.
+-{{</ spoiler >}}
+-
+-<h6> 28/09, 2334 hrs </h6>
+-
+-{{< spoiler prompt = "This amazing Netflix interactive called ...">}}
+-
+-<p>
+-This amazing Netflix interactive called life. Yeah, I might be sounding a bit of a philosopher with this one but I guess one does need these kinds of "mindpours" from time to time. <i>(Especially when you don't drink)</i>
+-</p>
+-
+-<p>
+-What if you had a rewind button. At times, my soul goes on pondering about the road not taken. The what ifs?. 
+-</p>
+-
+-<p>
+-<b>"Things could've been so much different"</b>
+-</p>
+-
+-<p>
+-But I guess this is what makes one feel alive. This uncertainity is what makes life worth living. Yes, we may regret some of our decisions made in the past but then that is what makes us, us. Those mistakes are not inkblots but beautiful strokes on the canvas of your character.
+-</p>
+-
+-The painting is taking shape, let the artist go wild !
+-
+-
+-{{</ spoiler >}}
+-
+-<h6> 06/08, 2107 hrs </h6>
+-
+-{{< spoiler prompt = "It feels so great ...">}}
+-
+-<p>
+-It feels so great to be back on the tennis court. After a period of dormant three months, my racquet was finally out of the cover. 
+-</p>
+-<p>
+-The internship season had driven me crazy. My entire summer was spent in front of the screen, either of TV or my laptop. Ahmedabad heat restricted my outings to a few. I was not able to get together with my friends until the very last day, that too with an excuse of giving a company's test together <i>(we didn't cheat)</i>.
+-</p>
+-<p>
+-After numerous tests, 1 waitlist and 3 shortlists, I finally made it to the other side (the sorted side). 
+-</p>
+-<p>
+-"Your game looks really rusty", said the newly joined fresher. My shots were going anywhere but within the lines; even launched one over the newly installed meshes. I was pissed with my game, but was extemely grateful about the opportunity to play after such a long time.
+-</p>
+-
+-Made me realise that we, humans, take so many little things for granted.
+-
+-{{</ spoiler >}}
+-
+-<h6> 11/06, 1410 hrs </h6>
+-
+-{{< spoiler prompt = "Just finished watching Love ...">}}
+-<p>
+-Just finished watching Love, Death + Robots on Netflix. Here is the first tierlist I ever made in my life <i>(because why not ;D)</i>
+-</p>
+-
+-{{< figure src="images/ldr.png" align="center" width="600">}}
+-
+-Not the best use of your summer break time but I was not able to help it...
+-
+-{{</ spoiler >}}
+-
+-<h6>24/03, 1145 hrs</h6>
+-
+-{{< spoiler prompt = "F1 is sick ...">}}
+-<p>
+-<b>F1 is sick !</b> Yeah, even I am now part of the bandwagon of mad people enjoying “superfast cars going around in circles”. To be honest, that was what I thought about the sport earlier and I guess everyone off the grid shares the same notion. But we (F1 followers) know that the reality speaks different.
+-</p>
+-<p>
+-I just spent 90 minutes of my Sunday morning watching the Australian GP and boy was it not worth it. Verstappen retiring in 3rd Lap, both the Mercedes’ crashing out, Sainz getting P1 after recovering from an apendicitis operation. . . Now, I am seriously looking forward to the next races.
+-</p>
+-
+-I am just new to the game so haven’t really picked a side to be loyal to but I guess I will be rooting for Ferrari this season. I hate it when a single player dominates the sport (The Joker, iykyk)
+-
+-{{</ spoiler >}}
+-
+-<h6>23/02, 1950 hrs</h6>
+-
+-{{< spoiler prompt = "Tomorrow is my Real Analysis midsem ...">}}
+-<p>
+-Tomorrow is my Real Analysis midsem which is 25% of my grade and am seriously under prepared. Probably not the best time to write on your blog but here I am. It seems that I am the worst when it comes to sorting one’s priorities.
+-</p>
+-<p>
+-Maybe, the reason of this is the fact that I have to study “real analysis”. I have a love-hate relationship with pure mathematics. I mean I seriously enjoyed the lectures we had (though I didn’t get half of what the prof was talking about) because they were mentally stimulating and fascinating at times, but I guess the abstract nature of the subject is not my thing.
+-</p>
+-<p>
+-<b>My bad.</b>
+-</p>
+-As of now, looks like the second cipher of the semester is on my way ;)
+-{{</ spoiler >}}
+-
+-{{</ toggle >}}
+-
+-
+diff --git a/hugo.toml b/hugo.toml
+index ef3a1be..05758fa 100644
+--- a/hugo.toml
++++ b/hugo.toml
+@@ -11,6 +11,8 @@ home = ["HTML", "RSS", "JSON"]
+ [markup]
+   defaultMarkdownHandler = "goldmark"
+   [markup.goldmark]
++    [markup.goldmark.renderer]
++      unsafe = true   # allow the raw <p>/<i>/<b> HTML used in konton entries
+     [markup.goldmark.extensions]
+       footnote = true
+       [markup.goldmark.extensions.passthrough]
+diff --git a/layouts/konton/list.html b/layouts/konton/list.html
+new file mode 100644
+index 0000000..2a2eb0d
+--- /dev/null
++++ b/layouts/konton/list.html
+@@ -0,0 +1,40 @@
++{{- define "main" }}
++<style>
++  .toggle { cursor: pointer; font-weight: bold; padding: 10px; color: var(--primary); border-radius: var(--radius); }
++  .toggle::before { content: "▶"; display: inline-block; margin-right: 10px; transition: transform 0.2s ease; }
++  .toggle.open::before { transform: rotate(90deg); }
++  .toggle:hover { background-color: var(--tertiary); }
++  .toggle-content { display: none; padding: 10px 10px 10px 20px; color: var(--content); border-radius: 0 0 var(--radius) var(--radius); }
++  .toggle.open + .toggle-content { display: block; }
++</style>
++
++<article class="post-single">
++  <header class="post-header">
++    {{ partial "breadcrumbs.html" . }}
++    <h1 class="post-title">{{ .Title }}</h1>
++  </header>
++
++  <div class="post-content">
++    {{ .Content }}
++
++    {{- /* One collapsible block per year, newest first; the latest year starts open */ -}}
++    {{- range $i, $year := (where .RegularPages "Draft" false).GroupByDate "2006" }}
++    <div class="toggle{{ if eq $i 0 }} open{{ end }}" onclick="this.classList.toggle('open');">
++      {{ $year.Key }}
++    </div>
++    <div class="toggle-content">
++      {{- range $year.Pages.ByDate.Reverse }}
++      <h6>{{ .Date.Format "02/01, 1504 hrs" }}</h6>
++      <blockquote class="spoiler">
++        <div class="spoiler-prompt">
++          {{- with .Params.prompt }}{{ . }}
++          {{- else }}{{ delimit (first 5 (split .Plain " ")) " " }} ...{{ end -}}
++        </div>
++        <div class="spoiler-text">{{ .Content }}</div>
++      </blockquote>
++      {{- end }}
++    </div>
++    {{- end }}
++  </div>
++</article>
++{{- end }}

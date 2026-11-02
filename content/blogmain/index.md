@@ -4,7 +4,7 @@ draft = false
 +++
 ---
 
-{{< blogtit "the miseducation of udit jethva" "29.10.26" "https://u-d-baba.github.io/Bloggo/blogmain">}}
+{{< blogtit "the miseducation of udit jethva" "coming soon" "https://u-d-baba.github.io/Bloggo/blogmain">}}
 
 {{< blogtit "let the queens dance" "15.10.26" "https://u-d-baba.github.io/Bloggo/blogposts/dancing-queens">}}
 

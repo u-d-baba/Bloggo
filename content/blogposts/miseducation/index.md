@@ -41,3 +41,13 @@ With time, as the semesters went by, our subjects diverged, friend circles branc
 We are still a bunch of bakchod manas...
 
 ###### a day in jan'23
+
+> *Doubles nikaal lege toh Ahaan ko Tanay dekh lega*
+
+It was a do-or-die fixture in the inter hostel tennis tournament, Spardha. We were battling against one of the heavyweights, Brahmaputra. We had already lost the first singles match and I was trying to play my best in the doubles. I remember having couple strokes of brilliance throughout the game: holding a long rally with my backhand and an extremely wide forehand leading to a winner. Eventually, we lost, but my seniors were very encouraging of my performance in my first Spardha and treated me at the roll food truck. As a rather introverted fresher, it was great to have this feeling of creating an impression among the hostel seniors. Maybe, this evening is what pushed me to finally pursue the sport as something competitive rather than something recreational.
+
+After lonesome couple of years, my tennis racquet had finally found its place back in my daily schedule as I started playing again with some of my hostel mates. Initially, it was painful to feel like a complete beginner again, as I had completely lost the grip on my technique. In fact, it was so bad that Shreyansh, who had never picked up a racquet in his life before, beat me once by sheer brute force. 
+
+One evening when we were returning back from the courts, some senior crossed us in the bicycle parking. He was carrying a tennis kit bag and noticed the racquets on us... *"Khelna aata hai?"* I don't remember the exact dialogue which followed, but a week later, the same person was conducting the trials for a spot in the inter hostel tournament (Spardha) team. He was a third-yearite, an Inter IIT player. He would be my doubles partner for years to come. His name was Anish Bhaiya.
+
+Though, I was not that great during the trials, he saw the potential in my technique and offered me a spot in the team. Next, I practiced regularly on days leading up to Spardha, switching between Anish Bhaiya and Tanay Bhaiya, the third member of our team. One evening, Anish Bhaiya asked me to return a racquet to some JP Sir

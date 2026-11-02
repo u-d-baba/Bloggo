@@ -1,0 +1,40 @@
+{{- define "main" }}
+<style>
+  .toggle { cursor: pointer; font-weight: bold; padding: 10px; color: var(--primary); border-radius: var(--radius); }
+  .toggle::before { content: "▶"; display: inline-block; margin-right: 10px; transition: transform 0.2s ease; }
+  .toggle.open::before { transform: rotate(90deg); }
+  .toggle:hover { background-color: var(--tertiary); }
+  .toggle-content { display: none; padding: 10px 10px 10px 20px; color: var(--content); border-radius: 0 0 var(--radius) var(--radius); }
+  .toggle.open + .toggle-content { display: block; }
+</style>
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ .Content }}
+
+    {{- /* One collapsible block per year, newest first; the latest year starts open */ -}}
+    {{- range $i, $year := (where .RegularPages "Draft" false).GroupByDate "2006" }}
+    <div class="toggle{{ if eq $i 0 }} open{{ end }}" onclick="this.classList.toggle('open');">
+      {{ $year.Key }}
+    </div>
+    <div class="toggle-content">
+      {{- range $year.Pages.ByDate.Reverse }}
+      <h6>{{ .Date.Format "02/01, 1504 hrs" }}</h6>
+      <blockquote class="spoiler">
+        <div class="spoiler-prompt">
+          {{- with .Params.prompt }}{{ . }}
+          {{- else }}{{ delimit (first 5 (split .Plain " ")) " " }} ...{{ end -}}
+        </div>
+        <div class="spoiler-text">{{ .Content }}</div>
+      </blockquote>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</article>
+{{- end }}
